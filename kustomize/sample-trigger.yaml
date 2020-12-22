@@ -6,7 +6,7 @@ includedFiles:
 name: kustomize-image-build
 github:
   name: cloud-builders-community
-  owner: <GITHUB_ORG> #TODO
+  owner: Friendr
   push:
     branch: ^master$
 substitutions:
